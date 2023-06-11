@@ -25,6 +25,10 @@
 	"flag G1",
 	"flag C3",
 	"flag B3",
-	"clear A3"
+	"clear A3",
+	"flag A2",
+	"flag B2",
+	"clear B1",
+	"end"
   ]
 }
