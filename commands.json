@@ -9,6 +9,13 @@
 	"clear H6",
 	"clear G5",
 	"flag F4",
-	"clear G4"
+	"clear G4",
+	"flag H5",
+	"clear H4",
+	"clear H3",
+	"clear G3",
+	"clear F3"
+	
+	
   ]
 }
